@@ -21,7 +21,7 @@ favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img s
 
 <p align="center">
   <img src="https://github.com/Xlebavich/xlebavich/blob/main/cat1.gif" height="100">
-  <img src="fennec.gif" height="100">
-  <img src="pat.gif" height="100">
+  <img src="https://github.com/Xlebavich/xlebavich/blob/main/cat2.gif" height="100">
+  <img src="https://github.com/Xlebavich/xlebavich/blob/main/mine.gif" height="100">
 </p>
 
