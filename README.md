@@ -23,10 +23,14 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
   </a>
+</p>
 
-  <br><br>
+<p align="center">
   favorite game:
-  <a href="https://www.minecraft.net/ru-ru">Minecraft</a><br><br>
+  <a href="https://www.minecraft.net/ru-ru">Minecraft</a>
+</p>
+
+<p align="center">
   <img src="https://github.com/Xlebavich/xlebavich/blob/main/minecraft.jpg?raw=true" width="40%">
 </p>
 
