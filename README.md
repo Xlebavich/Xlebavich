@@ -19,7 +19,7 @@
 favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img src="https://github.com/Xlebavich/xlebavich/blob/main/minecraft.jpg?raw=true" width="40%"></a></p>
 
 <details open>
-  <summary>support</summary>
+  <summary>Other Platforms</summary>
 <p align="center">  
   
   | Platform   | Link | Username |
