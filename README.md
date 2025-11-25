@@ -18,23 +18,6 @@
 <br><br>
 favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/lkbc.jpg?raw=true" width="20%"></a></p>
 
----
-
-
-<details open>
-  <summary>Other platforms</summary>
-<p align="center">  
-  
-  | Platform   | Link | Address |
-  |------------|------|---------|
-  | Steam    | [![BTC](https://img.shields.io/badge/Bitcoin-Donate-yellow?style=for-the-badge&logo=bitcoin)](bitcoin:bc1qtmrqtq4ag720tvux64ff3rjp632jy2d447p3nx)  |
-  | Discord  | [![ETH](https://img.shields.io/badge/Ethereum-Donate-blue?style=for-the-badge&logo=ethereum)](ethereum:0xa1A78771422F602d9Ded0E8373d5A3D77E146877) |
-
-  
-</p>
-</details>
-
----
 
 <p align="center">
   <img src="hyper.gif" height="100">
@@ -57,6 +40,3 @@ favorite game: <a href="https://www.minecraft.net/ru-ru">Minecraft<br><br><img s
   <img src="Hotfrickendog.gif" height="100">
 </p>
 
-<p align="center">  
-<br><br><a href="https://github.com/iiDk-the-actual/iiDk-the-actual/pulls">make a pr and add more silly gifs!! i will accept literally everything</a>
-</p>
