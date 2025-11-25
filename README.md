@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://github.com/iiDk-the-actual/iiDk-the-actual/blob/main/byebye.gif?raw=true" width="40%"><br>hiya!</h1>
+<h1 align="center"><img src="https://github.com/Xlebavich/xlebavich/blob/main/cathello.gif?raw=true" width="40%"><br>hiya!</h1>
 <p align="center">i am xlebavich🥖 <br>i am 15 years old and i program for fun.<br><br>
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>  
